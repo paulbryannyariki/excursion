@@ -1,0 +1,28 @@
+body{
+	background-color: black;
+}
+
+.Excursion{
+	font-size:16px;
+	color: aquamarine;
+	font-weight: bold;
+}
+
+.head-1{
+	color: white;
+	font-weight: normal;
+	font-family: Verdana;
+	text-align: center;
+}
+
+.excursion-mov{
+	align-self: center;
+}
+
+.head-2{
+	color: white;
+	font-size: 42px;
+	font-family: Verdana;
+	font-weight: 300;
+	text-align: center;
+}
