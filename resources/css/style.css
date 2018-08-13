@@ -1,24 +1,23 @@
 body{
 	background-color: black;
+	text-align: center;
 }
 
-.Excursion{
+.csi{
 	font-size:16px;
-	color: aquamarine;}
+	color: aquamarine;
+	
+}
 
-.head-1{
+h1{
 	color: white;
 	font-weight: normal;
-	font-family: Verdana;
-	text-align: center;
+	font-family: "Verdana", "sans-serif"
 }
 
-.head-2{
-	color: white;
-	font-size: 42px;
-	font-family: Verdana;
-	font-weight: 300;
-	text-align: center;
+h2 {
+  font-size: 42px;
+  color: white;
 }
 
 .center{
@@ -29,9 +28,19 @@ body{
 	margin-right: auto;
 	
 }
+.exc{
+	font-family: Verdana;
+	font-size: 21px;
+	color: gray;
+	text-align: center;
+}
 
 img.app, .camp{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
+
+.footer {
+  text-align: right;
+} 
