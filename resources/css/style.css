@@ -4,9 +4,7 @@ body{
 
 .Excursion{
 	font-size:16px;
-	color: aquamarine;
-	font-weight: bold;
-}
+	color: aquamarine;}
 
 .head-1{
 	color: white;
@@ -15,14 +13,25 @@ body{
 	text-align: center;
 }
 
-.excursion-mov{
-	align-self: center;
-}
-
 .head-2{
 	color: white;
 	font-size: 42px;
 	font-family: Verdana;
 	font-weight: 300;
 	text-align: center;
+}
+
+.center{
+	display: block;
+	width: 404;
+	height: 720;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+img.app, .camp{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
